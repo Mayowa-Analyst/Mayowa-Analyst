@@ -25,31 +25,31 @@ achievements, and real-world data solutions.*
 ## 🧠 Core Competencies
 
 - 📈 **Data Analysis**
- Exploring, cleaning, and analyzing datasets to extract meaningful insights
+   Exploring, cleaning, and analyzing datasets to extract meaningful insights.
   
 - 📊 **Data Visualization**
- Creating clear and interactive dashboards using  Power BI and Excel to communicate insights effectively
+   Creating clear and interactive dashboards using  Power BI and Excel to communicate insights effectively.
   
-  - 💰 **Financial Analytics**
-YOY analysis, KPIs, and financial reporting
+- 💰 **Financial Analytics**
+   YOY analysis, KPIs, and financial reporting.
   
 - 🧩 **Business Intelligence Development**
-Designing BI solutions that help organizations monitor performance, track KPIs, and improve operations.
+   Designing BI solutions that help organizations monitor performance, track KPIs, and improve operations.
 
 - 🗄️ **SQL & Database Management**
-Writing efficient SQL queries to retrieve, manipulate, and manage structured data from relational databases.
+   Writing efficient SQL queries to retrieve, manipulate, and manage structured data from relational databases.
 
  - 📉 **Dashboard Development**
-Building dynamic dashboards that provide real-time insights and simplify complex data for stakeholders.
+   Building dynamic dashboards that provide real-time insights and simplify complex data for stakeholders.
 
 - 📑 **Data Cleaning & Transformation**
-Preparing raw data by handling missing values, removing inconsistencies, and structuring it for analysis.
+   Preparing raw data by handling missing values, removing inconsistencies, and structuring it for analysis.
 
 - ⚙️ **Problem Solving & Analytical Thinking**
-Applying logical thinking and analytical techniques to solve business problems using data
+   Applying logical thinking and analytical techniques to solve business problems using data.
 
 - 📦 **Inventory Management**
- Tracking and analyzing stock levels, supply chain data, and operational performance
+   Tracking and analyzing stock levels, supply chain data, and operational performance.
   
 - ⚙️ **Macro Development**
-Automating repetitive tasks and workflows using Excel Macros
+    Automating repetitive tasks and workflows using Excel Macros.
