@@ -53,3 +53,9 @@ achievements, and real-world data solutions.*
   
 - ⚙️ **Macro Development**
     Automating repetitive tasks and workflows using Excel Macros.
+  
+  ---
+
+## 📊 Featured Visualizations
+
+ ### 💠Excel Dasboard
