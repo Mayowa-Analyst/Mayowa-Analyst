@@ -63,7 +63,7 @@ achievements, and real-world data solutions.*
 ![Dangote Dashboard](DANGOTE%20DASHBOARD.png)
 
 ### 💠 Retail Sales Performance
-![Retail Sales] (Retail%20Sales%20Performance%20Dashboard.png)
+![Retail Sales] (Retail%20Sales%20Performance.png)
 
 ### 💠 Retail Profitability & Trends
 ![Retail Profitability](Retail%20Profitability%20%26%20Tra.png)
