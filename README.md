@@ -59,4 +59,16 @@ achievements, and real-world data solutions.*
 ## 📊 Featured Visualizations
 
  ### 💠Excel Dasboard
+ 
 ![Dangote Dashboard](DANGOTE%20DASHBOARD.png)
+
+### 💠 Retail Sales Performance
+![Retail Sales](Retail%20Sales%20Performan.png)
+
+### 💠 Retail Profitability & Trends
+![Retail Profitability](Retail%20Profitability%20%26%20Tra.png)
+
+### 💠 Retails Operational Dashboard
+![Operational Dashboard](Retails%20Operational%20Das.png)
+
+
