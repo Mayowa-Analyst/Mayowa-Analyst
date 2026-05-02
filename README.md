@@ -60,15 +60,15 @@ achievements, and real-world data solutions.*
 
  ### 💠Excel Dasboard
  
+### 💠 Dangote Cement Dashboard
 ![Dangote Dashboard](DANGOTE%20DASHBOARD.png)
 
-### 💠 Retail Sales Performance
-![Retail Sales] (Retail%20Sales%20Performance.png)
+### 💠 Retail Profitability & Transaction
+![Retail Profitability](Retail%20Profitability%20%26%20Transaction.png)
 
-### 💠 Retail Profitability & Trends
-![Retail Profitability](Retail%20Profitability%20%26%20Tra.png)
+### 💠 Retail Sales Performance
+![Retail Sales](Retail%20Sales%20Performance%20.png)
 
 ### 💠 Retails Operational Dashboard
-![Operational Dashboard](Retails%20Operational%20Das.png)
-
+![Operational Dashboard](Retails%20Operational%20Dashboard%20.png)
 
