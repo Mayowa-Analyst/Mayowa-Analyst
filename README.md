@@ -118,4 +118,18 @@ I'm open to working on:
 
 If you have a project, idea, or opportunity, let's build something impactful together.
 
+---
+
+## 🌐 Connect With Me
+
+- 📧 Email: [Oladoyemayowa017@gmail.com](mailto:Oladoyemayowa017@gmail.com)
+
+- 💼 LinkedIn: [Oladoye Mayowa](https://www.linkedin.com/in/oladoye-mayowa-85a738324)
+
+- 🌍 Portfolio: [github.com/Mayowa-Analyst](https://github.com/Mayowa-Analyst)
+
+---
+
+⭐ *Feel free to explore my repositories, and 
+don't forget to connect with me!*
 
