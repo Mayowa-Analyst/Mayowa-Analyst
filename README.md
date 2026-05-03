@@ -76,10 +76,15 @@ achievements, and real-world data solutions.*
 
 ![Power BI Dashboard](Power%20Bi%20dashboard%20.png)
 
+![Regional Inequality](Power%20bi%20dashboard%20.png)
+
+![Market Bias](Powerrrr%20no.png)
+
 ![Power BI 1](Power%20bi%201.png)
 
 ![Power BI 2](Power%20bi%202.png)
 
 ![Power BI 3](Power%20bi%203.png)
 
-![Ecommerce](Ecommerce%20intelligenc....png)
+![Ecommerce Dashboard](Ecommerce%20intelligence%20.png)
+
