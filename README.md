@@ -88,3 +88,34 @@ achievements, and real-world data solutions.*
 
 ![Ecommerce Dashboard](Ecommerce%20intelligence%20.png)
 
+---
+---
+## 🧑‍💻 About Me
+
+I am a detail-oriented and results-driven **Data Analyst** and **BI Developer** with a strong passion for solving 
+real-world problems using data. I enjoy working with 
+datasets, uncovering hidden insights, and building 
+dashboards that communicate information clearly and 
+effectively.
+
+💡 I am continuously improving my skills in data analytics, 
+visualization, and business intelligence — with hands-on 
+experience in **Power BI, Excel**.
+
+🎯 My goal is to help organizations make smarter, data-driven decisions through accurate reporting and compelling visuals.
+
+---
+
+## 🤝 Let's Collaborate
+
+I'm open to working on:
+
+- 📊 Data Analytics Projects
+- 📈 Dashboard Development (Power BI / Excel)
+- 🧠 Business Intelligence Solutions
+- 💰 Financial Data Analysis & Reporting
+- 📚 Research & Learning Collaborations
+
+If you have a project, idea, or opportunity, let's build something impactful together.
+
+
